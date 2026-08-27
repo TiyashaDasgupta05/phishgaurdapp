@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Detector",
+  "description": "AI-powered phishing detection suite for analyzing suspicious URLs, emails, SMS messages, and headers with deep threat intelligence and interactive training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
